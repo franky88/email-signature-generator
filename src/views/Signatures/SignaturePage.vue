@@ -47,10 +47,10 @@ export default {
   data () {
       return {
           signatureData: {
-            name: 'Name',
-            position: 'Position',
-            phoneNumber: 'Phone number',
-            mobileNumber: 'Mobile number',
+            name: 'Juan Dela Cruz',
+            position: 'Web Developer',
+            phoneNumber: '07 2556 2545',
+            mobileNumber: '0566 555 222',
             formType: '',
             phoneOnly: true,
             mobileOnly: false,
